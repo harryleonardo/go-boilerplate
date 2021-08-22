@@ -1,0 +1,9 @@
+# ----------------------- ECHO CONFIGURATION
+PORT: "3002"
+
+# ----------------------- DATABASE CONFIGURATION
+DATABASE:
+  USERNAME: 
+  PASSWORD:
+  HOST:
+  NAME:
