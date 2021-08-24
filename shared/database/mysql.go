@@ -14,6 +14,7 @@ var (
 )
 
 type (
+	// MysqlInterface ...
 	MysqlInterface interface {
 		OpenMysqlConn() (*gorm.DB, error)
 	}
